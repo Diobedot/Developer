@@ -6,6 +6,6 @@ int main(){
 	char name[] ="";
 	cout<<"What's yout name?\n";
 	cin >> name;
-	cout<<"Hello "<<name<<"\n";
+	cout<<"Hello "<<name<<" again\n";
 	return 0;
 }
